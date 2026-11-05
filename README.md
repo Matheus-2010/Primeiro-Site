@@ -13,8 +13,7 @@ Objetivo
 Colocar em prática os conhecimentos adquiridos durante meus estudos, desenvolver minhas habilidades em criação de páginas web e acompanhar minha evolução como desenvolvedor.
 
 Acesso ao projeto
-Demonstração on-line: será adicionada após a publicação pelo GitHub Pages.
-Repositório: https://github.com/Matheus-2010/Primeiro-Site
+Demonstração on-line: https://matheus-2010.github.io/Primeiro-Site/
 
 Aprendizados
 Estrutura básica de uma página HTML.
